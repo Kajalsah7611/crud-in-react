@@ -7,7 +7,7 @@ const Task = ({ task, onDelete, onEdit }) => {
 
   const formatDate = (timestamp) => {
     const date = new Date(timestamp);
-    return date.toLocaleString(); // You can customize the date format as needed
+    return date.toLocaleString(); // can customize the date format as needed
   };
 
   return (
