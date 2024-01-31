@@ -43,7 +43,7 @@ const TodoList = () => {
   };
 
   return (
-     <div className="todo-container">
+    <div className="todo-container">
     <h1>Todo List</h1>
     <div className="input-row">
       <input type="text" value={newTask} onChange={handleInputChange} placeholder="Add a new task" />
