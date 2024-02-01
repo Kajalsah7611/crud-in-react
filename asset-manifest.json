@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todo-list-app/static/css/main.ebb1140f.css",
-    "main.js": "/todo-list-app/static/js/main.3852c493.js",
-    "static/js/787.007ce6cd.chunk.js": "/todo-list-app/static/js/787.007ce6cd.chunk.js",
-    "index.html": "/todo-list-app/index.html",
-    "main.ebb1140f.css.map": "/todo-list-app/static/css/main.ebb1140f.css.map",
-    "main.3852c493.js.map": "/todo-list-app/static/js/main.3852c493.js.map",
-    "787.007ce6cd.chunk.js.map": "/todo-list-app/static/js/787.007ce6cd.chunk.js.map"
+    "main.css": "/Kajalsah7611/crud-in-react/static/css/main.ebb1140f.css",
+    "main.js": "/Kajalsah7611/crud-in-react/static/js/main.51d5abda.js",
+    "static/js/787.007ce6cd.chunk.js": "/Kajalsah7611/crud-in-react/static/js/787.007ce6cd.chunk.js",
+    "index.html": "/Kajalsah7611/crud-in-react/index.html",
+    "main.ebb1140f.css.map": "/Kajalsah7611/crud-in-react/static/css/main.ebb1140f.css.map",
+    "main.51d5abda.js.map": "/Kajalsah7611/crud-in-react/static/js/main.51d5abda.js.map",
+    "787.007ce6cd.chunk.js.map": "/Kajalsah7611/crud-in-react/static/js/787.007ce6cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb1140f.css",
-    "static/js/main.3852c493.js"
+    "static/js/main.51d5abda.js"
   ]
 }
